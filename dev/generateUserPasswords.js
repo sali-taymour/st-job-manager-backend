@@ -6,7 +6,7 @@ const createHash = async (password) => {
     return hash;
 };
 
-const passwords = ["anonymous123", "edward123", "jason123", "richter123"];
+const passwords = ["anonymous123", "sali123", "jason123", "richter123"];
 
 passwords.forEach((password) => {
     (async () => {

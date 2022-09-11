@@ -7,8 +7,8 @@
         "accessGroups": ["loggedOutUsers"]
     },
     {
-        "username": "edward",
-        "firstName": "Edward",
+        "username": "sali",
+        "firstName": "Sali",
         "lastName": "Tanguay",
         "hash": "$2b$10$529oG8BQSFwdq38cnEPcDeNQ0ztNh3dmHpebJye/KGbsjuDJs42RS",
         "accessGroups": ["loggedInUsers", "administrators"]
